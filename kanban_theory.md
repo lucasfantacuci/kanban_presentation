@@ -4,3 +4,4 @@ Kanban baseia-se na teoria de fluxo estabelecida, incluindo, mas não se limitan
 
 A teoria na qual Kanban se baseia também é compartilhada por muitas metodologias e estruturas orientadas a valor existentes. Por causa dessas semelhanças, Kanban pode e deve ser usado para aumentar essas técnicas de entrega.
 
+[Início](README.md) | [Anterior](why_use_kanban.md) | [Próximo](kanban_pratices_one.md)
