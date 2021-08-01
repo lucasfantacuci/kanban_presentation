@@ -10,9 +10,9 @@ Kanban compreende as seguintes três práticas trabalhando em conjunto:
 
 Em sua implementação, essas práticas Kanban são chamadas coletivamente de sistema Kanban. Aqueles que participam da entrega de valor de um sistema Kanban são chamados de membros do sistema Kanban.
 
-### Observações:
+### Sistema empurrado VS. Sistema puxado:
 
-- Sistema empurrado - um item é criado e designado para alguém para realizá-la.
-- Sistema puxado - os items são criadas e enfileirados, quem estiver disponível pega a tarefa que está na prioridade da fila ou a que desejar e executa.
+- Sistema empurrado - uma atividade é criada e designada para alguém realizá-la.
+- Sistema puxado - as atividades são criadas e enfileiradas, quem estiver disponível pega a tarefa que está na prioridade da fila ou a que desejar e executa.
 
 [Início](README.md) | [Anterior](README.md) | [Próximo](why_use_kanban.md)
