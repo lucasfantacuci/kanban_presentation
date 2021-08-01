@@ -15,4 +15,4 @@ Em sua implementação, essas práticas Kanban são chamadas coletivamente de si
 - Sistema empurrado - um item é criado e designado para alguém para realizá-la.
 - Sistema puxado - os items são criadas e enfileirados, quem estiver disponível pega a tarefa que está na prioridade da fila ou a que desejar e executa.
 
-[Anterior](README.md) [Próximo](why_use_kanban.md)
+[Início](README.md) | [Anterior](README.md) | [Próximo](why_use_kanban.md)
