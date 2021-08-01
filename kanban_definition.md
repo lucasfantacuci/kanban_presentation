@@ -15,4 +15,6 @@ Em sua implementação, essas práticas Kanban são chamadas coletivamente de si
 - Sistema empurrado - uma atividade é criada e designada para alguém realizá-la.
 - Sistema puxado - as atividades são criadas e enfileiradas, quem estiver disponível pega a tarefa que está na prioridade da fila ou a que desejar e executa.
 
+![kanban](https://user-images.githubusercontent.com/13895978/127755355-f4f3ae66-705d-46fa-b262-f0f8442d0a1a.jpg)
+
 [Início](README.md) | [Anterior](README.md) | [Próximo](why_use_kanban.md)
