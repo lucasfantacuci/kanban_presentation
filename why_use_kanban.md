@@ -10,3 +10,4 @@ A estratégia do Kanban é fazer com que os membros façam as perguntas certas m
 
 Como o Kanban pode trabalhar com praticamente qualquer fluxo de trabalho, sua aplicação não se limita a nenhum setor ou contexto. Trabalhadores profissionais do conhecimento, como os de finanças, marketing, saúde e software (para citar alguns), têm se beneficiado das práticas Kanban.
 
+[Início](README.md) | [Anterior](kanban_definition.md) | [Próximo](kanban_theory.md)
