@@ -1,4 +1,4 @@
-# Por que usar Kanban?
+# Por que utilizar Kanban?
 
 A definição central de de Kanban é o conceito de fluxo. Fluxo é o movimento de potencial valor através de um sistema. Como a maioria dos fluxos de trabalho existem para otimizar o valor, a estratégia do Kanban é otimizar o valor otimizando o fluxo. Otimização não implica necessariamente em maximização. Em vez disso, a otimização de valor significa em desprender esforços para encontrar o equilíbrio certo entre eficácia, eficiência e previsibilidade em como o trabalho é feito:
 
