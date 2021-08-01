@@ -1,7 +1,7 @@
 # Apresentação Kanban
 
 - [**Definição de Kanban**](kanban_definition.md)
-- [**Por que usar Kanban?**](why_use_kanban.md)
+- [**Por que utilizar Kanban?**](why_use_kanban.md)
 - [**Teoria do Kanban**](kanban_theory.md)
 - **Práticas Kanban**
     1. [Definindo e visualizando um fluxo de trabalho](kanban_pratices_one.md)
