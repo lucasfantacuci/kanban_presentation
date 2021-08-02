@@ -1,6 +1,6 @@
 # Definição de Kanban
 
-Kanban é uma estratégia para realizar a otimização de um fluxo de criação de valor através de um processo que se utiliza de sistema puxado visual. 
+Kanban é uma estratégia para realizar a otimização de um fluxo de trabalho que gera valor, se dando através de um processo que utiliza um sistema puxado e visual. 
 
 Vocês conhecem a diferença entre sistema puxado e sistema empurrado? Resposta.
 
