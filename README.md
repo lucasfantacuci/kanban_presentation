@@ -8,3 +8,4 @@
     2. [Gerenciamento ativo de items em um fluxo de trabalho](kanban_pratices_two.md)
     3. [Melhorando o fluxo de trabalho](kanban_pratices_three.md)
 - [**Métricas Kanban**](kanban_measusres.md)
+- [**Gráficos**](graphics.md)
