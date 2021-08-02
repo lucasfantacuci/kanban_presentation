@@ -1,5 +1,7 @@
 # Apresentação Kanban
 
+_"O problema está nos processos e não nas pessoas."_ 
+
 - [**Definição de Kanban**](kanban_definition.md)
 - [**Por que utilizar Kanban?**](why_use_kanban.md)
 - [**Teoria do Kanban**](kanban_theory.md)
