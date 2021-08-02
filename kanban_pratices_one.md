@@ -17,7 +17,7 @@ E o DoW é um conceito fundamental de Kanban. Todos os outros elementos do Kanba
 - Políticas explícitas sobre como os itens de trabalho podem fluir em cada estado do início ao fim. Por exemplo, uma atividade só irá para refinamento técnico se ela tiver uma história bem descrita.
 - Uma expectativa de nível de serviço (SLE), que é uma previsão de quanto tempo um item de trabalho deve levar para fluir do início ao fim.
 
-Com base no nosso contexto. Criei três fluxos de trabalho (DoW) e três quadros visuais.
+Com base no nosso projeto. eu visualizei três contextos e três fluxos de trabalho.
 
 - Primeiro nível - Importante para nível Coorporativo. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
 - Segundo nível - Importante para o nível de Gestores do projeto. O que? Histórias de como as coisas deverão ser implementadas para atingir um épico, Bugs que estão acontecendo, e definições de tarefas em geral.
