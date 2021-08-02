@@ -11,6 +11,8 @@ O gerenciamento dos itens em um fluxo de trabalho pode assumir várias formas, q
 
 Uma prática comum é os membros do sistema Kanban revisarem o gerenciamento ativo de itens regularmente. Embora alguns possam escolher uma reunião diária, não há necessidade de formalizar a revisão ou reunir-se em uma cadência regular, desde que o gerenciamento ativo ocorra.
 
+E esse gerênciamento só é possível, pois temos muitas informações sobre todo o nosso fluxo de trabalho. Por exemplo, conseguimos responder à perguntas como: Quanto tempo uma atividade ficou parada esperando o deploy.
+
 #### Controle de trabalho em andamento - ou WIP
 
 Os membros do sistema Kanban devem controlar explicitamente o número de itens de trabalho em um fluxo de trabalho do início ao fim. Esse controle é geralmente representado como números ou slots / tokens em um quadro Kanban que são chamados de limites WIP. Um limite de WIP pode incluir (mas não está limitado a) itens de trabalho em uma única coluna, várias colunas / pistas / áreas agrupadas ou um quadro inteiro.
