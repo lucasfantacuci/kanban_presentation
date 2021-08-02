@@ -13,9 +13,9 @@ A otimização do fluxo requer primeiramente a definição do que significa flux
 
 Criei três fluxos de trabalho (DoW) e três quadros visuais.
 
-Primeiro nível - Importante para nível de Coordenadores. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
-Segundo nível - Importante para o nível de Gestores do projeto. O que? Histórias de como as coisas deverão ser implementadas para atingir um épico, Bugs que estão acontecendo, e definições de tarefas em geral.
-Terceiro nível - Importante para o nível operacional. Como? Após um refinamento técnico, todas as tarefas necessárias para alcançar uma atividade de segundo nível.
+- Primeiro nível - Importante para nível de Coordenadores. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
+- Segundo nível - Importante para o nível de Gestores do projeto. O que? Histórias de como as coisas deverão ser implementadas para atingir um épico, Bugs que estão acontecendo, e definições de tarefas em geral.
+- Terceiro nível - Importante para o nível operacional. Como? Após um refinamento técnico, todas as tarefas necessárias para alcançar uma atividade de segundo nível.
 
 A visualização do DoW é chamada de quadro Kanban. Tornar pelo menos os elementos mínimos do DoW transparentes no quadro Kanban é essencial para processar o conhecimento que informa a operação ideal do fluxo de trabalho e facilita a melhoria contínua do processo.
 
