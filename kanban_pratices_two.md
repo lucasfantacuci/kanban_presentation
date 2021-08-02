@@ -25,3 +25,4 @@ O controle do WIP não apenas ajuda o fluxo de trabalho, mas também melhora o f
 
 O SLE é uma previsão de quanto tempo deve levar um único item de trabalho para fluir do início ao fim. O próprio SLE tem duas partes: um período de tempo decorrido e uma probabilidade associada a esse período (por exemplo, "85% dos itens de trabalho serão concluídos em oito dias ou menos"). O SLE deve ser baseado no tempo de ciclo histórico e, uma vez calculado, deve ser visualizado no quadro Kanban. Se os dados de tempo de ciclo histórico não existirem, uma melhor estimativa servirá até que haja dados históricos suficientes para um cálculo SLE adequado.
 
+[Início](README.md) | [Anterior](kanban_pratices_one.md) | [Próximo](kanban_pratices_three.md)
