@@ -17,3 +17,4 @@ Por si mesmas, essas métricas não têm sentido, a menos que possam informar um
 
 As medidas de fluxo listadas neste guia representam apenas o mínimo necessário para a operação de um sistema Kanban. Os membros do sistema Kanban podem e freqüentemente devem usar medidas específicas de contexto adicionais que auxiliam nas decisões informadas por dados.
 
+[Início](README.md) | [Anterior](kanban_pratices_three.md) | [Próximo](graphics.md)
