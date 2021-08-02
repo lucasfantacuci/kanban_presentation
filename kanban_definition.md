@@ -9,8 +9,8 @@ Podemos de definir valor de várias maneiras, como por exemplo, incluindo a cons
 Kanban engloba as seguintes três práticas trabalhando em conjunto:
 
 - Definir e visualizar o fluxo de trabalho;
-- Gerenciar ativamente os items em um fluxo de trabalho;
-- Melhorar o fluxo de trabalho.
+- Gerenciar ativamente os items em um fluxo de trabalho e isso nos permite o terceiro que é;
+- Melhorar o fluxo de trabalho, e o Kanban nos permite pequenas mudanças por vez, que nos permitem evoluir muito ao longo do tempo.
 
 Essas práticas em conjunto define um sistema Kanban.
 
