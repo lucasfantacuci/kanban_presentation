@@ -7,7 +7,7 @@ O gerenciamento ativo de itens em um fluxo de trabalho pode assumir várias form
 - Controlando WIP.
 - Evitando que os itens de trabalho se acumulem em qualquer parte do fluxo de trabalho.
 - Garantir que os itens de trabalho não envelheçam desnecessariamente, usando o SLE como referência.
-- Unblocking blocked work.
+- Desbloqueando trabalho bloqueado.
 
 Uma prática comum é os membros do sistema Kanban revisarem o gerenciamento ativo de itens regularmente. Embora alguns possam escolher uma reunião diária, não há necessidade de formalizar a revisão ou reunir-se em uma cadência regular, desde que o gerenciamento ativo ocorra.
 
