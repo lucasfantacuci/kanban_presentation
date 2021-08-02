@@ -9,9 +9,7 @@ As quatro medidas de fluxo obrigatórias a serem rastreadas são:
 - **Work Item Age**: A quantidade de tempo decorrido entre o início de um item de trabalho e a hora atual.
 - **Cycle Time**: A quantidade de tempo decorrido entre o início de um item de trabalho e a conclusão de um item de trabalho.
 
-Para essas quatro medidas de fluxo obrigatórias, iniciadas e concluídas, consulte como os membros do sistema Kanban definiram esses termos no DoW.
-
-Desde que os membros usem essas métricas conforme descrito neste guia, os membros podem se referir a qualquer uma dessas medidas usando quaisquer outros nomes que escolherem.
+Para essas quatro medidas de fluxo obrigatórias, iniciadas e concluídas.
 
 Por si mesmas, essas métricas não têm sentido, a menos que possam informar uma ou mais das três práticas Kanban. Portanto, é recomendável visualizar essas métricas usando gráficos. Não importa que tipo de gráficos são usados, desde que eles permitam um entendimento compartilhado da saúde e desempenho atuais do sistema Kanban.
 
