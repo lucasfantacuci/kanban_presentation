@@ -2,7 +2,13 @@
 
 ### Definiçaõ e visualização de um fluxo de trabalho
 
-A otimização do fluxo requer primeiramente a definição do que significa fluxo de trabalho em um determinado contexto. A compreensão compartilhada do fluxo de trabalho entre os membros do sistema Kanban dentro de seu contexto é chamada de Definição de Fluxo de Trabalho, Definition of Workflow ou DoW. E o DoW é um conceito fundamental de Kanban. Todos os outros elementos do Kanban dependem muito de como o fluxo de trabalho é definido, e no mínimo nós devemos criar o DoW usando os seguintes elementos:
+A otimização do fluxo requer primeiramente a definição do que significa fluxo de trabalho em um determinado contexto. 
+
+Contexto do Rafa é totalmente diferente do nosso contexto. 
+
+A compreensão compartilhada do fluxo de trabalho dentro de seu contexto é chamada de Definição de Fluxo de Trabalho, Definition of Workflow ou DoW. 
+
+E o DoW é um conceito fundamental de Kanban. Todos os outros elementos do Kanban dependem muito de como o fluxo de trabalho é definido, e no mínimo nós devemos criar o DoW usando os seguintes elementos:
 
 - Uma definição das unidades de valor que estão se movendo no fluxo de trabalho. https://exemplo-configuracao-lucas.atlassian.net/secure/admin/ConfigureOptionSchemes!default.jspa?fieldId=&schemeId=10132. Podemos adicionar outros tipos de atividades que gerem valor, por exemplo, não levei em consideração o fluxo de trabalho da Carol pois eu não tenho muito contexto sobre.
 - Uma definição de quando os itens de trabalho são iniciados e concluídos em um fluxo de trabalho.
@@ -11,7 +17,7 @@ A otimização do fluxo requer primeiramente a definição do que significa flux
 - Políticas explícitas sobre como os itens de trabalho podem fluir em cada estado do início ao fim. Por exemplo, uma atividade só irá para refinamento técnico se ela tiver uma história bem descrita.
 - Uma expectativa de nível de serviço (SLE), que é uma previsão de quanto tempo um item de trabalho deve levar para fluir do início ao fim.
 
-Criei três fluxos de trabalho (DoW) e três quadros visuais.
+Com base no nosso contexto. Criei três fluxos de trabalho (DoW) e três quadros visuais.
 
 - Primeiro nível - Importante para nível de Coordenadores. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
 - Segundo nível - Importante para o nível de Gestores do projeto. O que? Histórias de como as coisas deverão ser implementadas para atingir um épico, Bugs que estão acontecendo, e definições de tarefas em geral.
