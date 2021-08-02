@@ -19,7 +19,7 @@ E o DoW é um conceito fundamental de Kanban. Todos os outros elementos do Kanba
 
 Com base no nosso contexto. Criei três fluxos de trabalho (DoW) e três quadros visuais.
 
-- Primeiro nível - Importante para nível de Coordenadores. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
+- Primeiro nível - Importante para nível Coorporativo. Por que? No caso meu pensamento ele foi focado em objetivos para a coorporação.
 - Segundo nível - Importante para o nível de Gestores do projeto. O que? Histórias de como as coisas deverão ser implementadas para atingir um épico, Bugs que estão acontecendo, e definições de tarefas em geral.
 - Terceiro nível - Importante para o nível operacional. Como? Após um refinamento técnico, todas as tarefas necessárias para alcançar uma atividade de segundo nível.
 
